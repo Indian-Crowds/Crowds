@@ -18,11 +18,12 @@ class main():
     def banner():
         
         print(f"""
- {re}╦ ╦ ╔╦╗{cy}╔═╗ ┌─┐ ┬ ┬ ╔═╗ ║  ╔═╗ ┌─┐┌─┐┬─┐
- {re}║ ║  ║ {cy}║ ║ ├┤  │ │ ├┤  ║  ║ ║ ├─┘├┤ ├┬┘
- {re}╩ ╩  ╩ {cy}╚═╝ └─┘  ─  ╚═╝ ╚═ ╚═╝ ┴  └─┘┴└─       
+    INDIAN CROWDS
+	INDIAN CROWDS
+	INDIAN CROWDS
+     {re} welcome to  INDIAN {cy} CROWDS 
  
-                version : 1.0
+                version : 0.1
             youtube.com/theunknon
             """)
 
