@@ -16,7 +16,7 @@ def banner():
 	INDIAN CROWDS
 	INDIAN CROWDS
 	INDIAN CROWDS
-            version : 1.0
+            version : 0.1
      {re} welcome to  INDIAN {cy} CROWDS
 	{re}╔═╗{cy}┌─┐┌┬┐┬ ┬┌─┐
 	{re}╚═╗{cy}├┤  │ │ │├─┘
