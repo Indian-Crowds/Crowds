@@ -13,12 +13,11 @@ cy="\033[1;36m"
 def banner():
 	os.system('clear')
 	print(f"""
-	{re}╦ ╦ ╔╦╗{cy}╔═╗ ┌─┐ ┬ ┬ ╔═╗ ║  ╔═╗ ┌─┐┌─┐┬─┐
-        {re}║ ║  ║ {cy}║ ║ ├┤  │ │ ├┤  ║  ║ ║ ├─┘├┤ ├┬┘
-        {re}╩ ╩  ╩ {cy}╚═╝ └─┘  ─  ╚═╝ ╚═ ╚═╝ ┴  └─┘┴└─
- 
+	INDIAN CROWDS
+	INDIAN CROWDS
+	INDIAN CROWDS
             version : 1.0
-     {re} IIT {cy} DEVELOPER 
+     {re} welcome to  INDIAN {cy} CROWDS
 	{re}╔═╗{cy}┌─┐┌┬┐┬ ┬┌─┐
 	{re}╚═╗{cy}├┤  │ │ │├─┘
 	{re}╚═╝{cy}└─┘ ┴ └─┘┴
