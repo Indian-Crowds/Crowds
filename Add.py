@@ -16,11 +16,11 @@ cy="\033[1;36m"
 def banner():
 	os.system('clear')
 	print(f"""
-       	{re}╦ ╦ ╔╦╗{cy}╔═╗ ┌─┐ ┬ ┬ ╔═╗ ║  ╔═╗ ┌─┐┌─┐┬─┐
-        {re}║ ║  ║ {cy}║ ║ ├┤  │ │ ├┤  ║  ║ ║ ├─┘├┤ ├┬┘
-        {re}╩ ╩  ╩ {cy}╚═╝ └─┘  ─  ╚═╝ ╚═ ╚═╝ ┴  └─┘┴└─
+       	INDIAN CROWDS
+	INDIAN CROWDS
+	INDIAN CROWDS
             version : 1.0
-     {re} welcome to  IIT {cy} DEVELOPER 
+     {re} welcome to  INDIAN {cy} CROWDS
 	""")
 banner()
 print(gr+"[+] Welcome to IIT DEVELOPER This is created by IIT DEVELOPER Team")
